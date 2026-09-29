@@ -45,7 +45,7 @@
 - 🏗️ Auction and market design, with simulation, for construction waste trading in Shenzhen
 - 🤖 Multi-agent AI and its governance, plus everyday work with AI coding agents
 - ⛓️ Ethereum standards for agent memory (ERC-8350)
-- 🌱 [NaturalDAO](https://github.com/naturaldao) — community co-governance and the "Proof of Love" (PoL) documents
+- 🌱 [NaturalDAO](https://github.com/naturaldao) — community co-governance and the PoL2 documents
 - 📐 Lean 4 for formal proofs (just getting started)
 
 ## 🌱 Open-source contributions
@@ -65,43 +65,11 @@
 | 🪟 | [WindowsDeveloperConfig #1](https://github.com/shentonyan/WindowsDeveloperConfig/pull/1) — setup script bug fixes and doc corrections (my fork) | 🟣 Merged |
 | 🎵 | [hermes-agent #3](https://github.com/shentonyan/hermes-agent/pull/3) — Spotify tool validation fixes: playback cursors and library mutation limits (my fork) | 🟣 Merged |
 
-## 📋 Projects & Competitions
+## 🏅 Highlights
 
-| | Project | Role | Time |
-|:-:|:---|:---|:---|
-| 🚛 | [FAW Logistics Digital & Intelligent Dispatch Decision Optimization](https://online.fliphtml5.com/byksl/wnqf/) — 8th National College Student Logistics Design Competition | Team Leader | 2023.11 – 2024.06 |
-| 🏙️ | [Urban Integration of Migrant Workers in Shenzhen](https://online.fliphtml5.com/byksl/irlh/) — "Challenge Cup" | Team Leader | 2023.05 – 2023.09 |
-| 🚗 | [Consumer Preferences for Household New Energy Vehicles in Shenzhen](https://online.fliphtml5.com/byksl/oamy/) — "Chia Tai Cup" | Data Analyst | 2022.09 – 2023.04 |
-
-## 📑 Essays (in Chinese)
-
-- 🚙 [China New Energy Vehicle Industry Research Report](https://online.fliphtml5.com/byksl/jzoj/)
-- 🧴 [Developing an Eye Cream for Estée Lauder 2024](https://online.fliphtml5.com/byksl/jhkb/)
-- 🏬 [Econometric Analysis of Factors Influencing the Turnover of Shopping Malls in Shenzhen](https://online.fliphtml5.com/byksl/cxwq/)
-- 📦 [Design and Implementation of i-WMS Solution Based on Simulated Annealing Algorithm](https://online.fliphtml5.com/byksl/gzqt/)
-- 📖 [The Logical Evolution and Enlightenment of "The Banality of Evil"](https://online.fliphtml5.com/byksl/ykdn/)
-- 📖 [A New Interpretation of "Mahamaya and Her Tragedy"](https://online.fliphtml5.com/byksl/ckzd/)
-- 🕊️ [Death Gives Meaning to Life](https://online.fliphtml5.com/byksl/rsrn/)
-
-## 🏆 Awards
-
-| Award | Year |
-|:---|:-:|
-| 🥈 Second Prize, 8th National College Student Logistics Design Competition | 2024 |
-| 🥉 Third Prize, "Chia Tai Cup" 13th National College Student Market Survey and Analysis Competition | 2023 |
-| 🎖️ LiYuan Outstanding Scholarship, Shenzhen University (Second-level) | 2023 & 2024 |
-| 🥇 First Prize, University Learning Star Award | 2023 |
-| 🥇 First Prize, University Public Welfare Star Award | 2023 |
-| 🥇 First Prize, Excellent Student Cadre | 2023 |
-
-## 💼 Internships
-
-| | Company | Role | Time |
-|:-:|:---|:---|:---|
-| 📮 | [S.F. Express](https://htm.sf-express.com/hk/en/) | The Eagle Plan, Intern | 2024.09 – 2024.10 |
-| 💳 | [Linklogis](https://www.linklogis.com/) — supply chain fintech | Pre-Sales Solutions, Assistant Solution Manager | 2024.07 – 2024.09 |
-| 📰 | [Penta Lab](https://www.pentalab.io/) — blockchain research institute, Hong Kong | Editorial Department, Intern | 2024.04 – 2024.07 |
-| 🎮 | [AiKe Technology](https://x.com/game_pupi) — blockchain games | Market Operations, Intern | 2023.09 – 2024.04 |
+- 🥈 **Awards**: Second Prize, 8th National College Student Logistics Design Competition (2024) · Third Prize, "Chia Tai Cup" (2023) · LiYuan Outstanding Scholarship, Shenzhen University (2023 & 2024)
+- 💼 **Internships**: [S.F. Express](https://htm.sf-express.com/hk/en/) · [Linklogis](https://www.linklogis.com/) (supply chain fintech) · [Penta Lab](https://www.pentalab.io/) (blockchain research, Hong Kong) · [AiKe Technology](https://x.com/game_pupi) (blockchain games)
+- 📑 **Essays** (in Chinese): [New energy vehicle industry report](https://online.fliphtml5.com/byksl/jzoj/) · [Shopping mall turnover in Shenzhen](https://online.fliphtml5.com/byksl/cxwq/) · [i-WMS with simulated annealing](https://online.fliphtml5.com/byksl/gzqt/)
 
 ---
 
