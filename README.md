@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/1pfp.jpg" width="120" alt="Shenton Yan">
-
 # Shenton (Shentao) Yan 👋
 
 **Postgraduate student in Low-Altitude Economics · The Hong Kong Polytechnic University**
