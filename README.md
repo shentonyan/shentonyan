@@ -32,44 +32,43 @@
 
 ---
 
-## 🎓 About
+## What I do
 
-- 🏫 Currently pursuing postgraduate studies in **Low-Altitude Economics** at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/).
-- 🎒 Undergraduate degree in **Supply Chain Management** from [Shenzhen University](https://en.szu.edu.cn/).
-- 💬 Always happy to discuss blockchain, operations research, supply chain, fintech, Chinese history and literature.
-- 🌐 Bilingual writing in 中文 / English.
+- Postgraduate studies in **Low-Altitude Economics** at [PolyU](https://www.polyu.edu.hk/); undergraduate in **Supply Chain Management** at [Shenzhen University](https://en.szu.edu.cn/).
+- Low-altitude logistics network design and resilience.
+- Auction and market design, with simulation, for construction waste trading in Shenzhen.
+- Multi-agent AI and its governance; studying Ethereum standards for agent memory (ERC-8350).
+- Community co-governance with [NaturalDAO](https://github.com/naturaldao), including the PoL2 documents.
+- Learning Lean 4 for formal proofs.
+- Writing in both 中文 and English.
 
-## 🔭 Currently exploring
+---
 
-- 🚁 Low-altitude logistics network design and resilience
-- 🏗️ Auction and market design, with simulation, for construction waste trading in Shenzhen
-- 🤖 Multi-agent AI and its governance, plus everyday work with AI coding agents
-- ⛓️ Ethereum standards for agent memory (ERC-8350)
-- 🌱 [NaturalDAO](https://github.com/naturaldao) — community co-governance and the PoL2 documents
-- 📐 Lean 4 for formal proofs (just getting started)
+## Ongoing research
 
-## 🌱 Open-source contributions
+- **CDW double auction** — simulation of a daily call auction for construction and demolition waste in Shenzhen, comparing learning-based seller strategies.
+- **Differentiable mechanism design** — a RegretNet-style benchmark for the same market.
+- **Low-altitude logistics resilience** — network resilience for megacity drone logistics.
+- **Multi-agent governance** — a research report on the AI agent landscape (in Chinese).
 
-**NaturalDAO**
+---
 
-| | Contribution | Status |
-|:-:|:---|:-:|
-| 📚 | [NaturalDAO #17](https://github.com/naturaldao/NaturalDAO/pull/17) — Jev typed-decision literature survey, mapped to PoL2 governance | 🟢 Open |
-| 💞 | [EAP #2](https://github.com/naturaldao/EAP/pull/2) — reference document on "爱的连接" (Love Linking) | 🟢 Open |
+## Selected work
 
-**Other**
+### NaturalDAO
 
-| | Contribution | Status |
-|:-:|:---|:-:|
-| 🧪 | [awesome-typesafe-jev #95](https://github.com/AbdelStark/awesome-typesafe-jev/pull/95) — added Love-Language Arena, a local reproduction of the Jev interface pattern for Chinese/English rewrite judging | 🟣 Merged |
-| 🪟 | [WindowsDeveloperConfig #1](https://github.com/shentonyan/WindowsDeveloperConfig/pull/1) — setup script bug fixes and doc corrections (my fork) | 🟣 Merged |
-| 🎵 | [hermes-agent #3](https://github.com/shentonyan/hermes-agent/pull/3) — Spotify tool validation fixes: playback cursors and library mutation limits (my fork) | 🟣 Merged |
+| Project | What it is |
+|---|---|
+| [NaturalDAO #17](https://github.com/naturaldao/NaturalDAO/pull/17) | Jev typed-decision literature survey, mapped to PoL2 governance. Open. |
+| [EAP #2](https://github.com/naturaldao/EAP/pull/2) | Reference document on "爱的连接" (Love Linking). Open. |
 
-## 🏅 Highlights
+### Other
 
-- 🥈 **Awards**: Second Prize, 8th National College Student Logistics Design Competition (2024) · Third Prize, "Chia Tai Cup" (2023) · LiYuan Outstanding Scholarship, Shenzhen University (2023 & 2024)
-- 💼 **Internships**: [S.F. Express](https://htm.sf-express.com/hk/en/) · [Linklogis](https://www.linklogis.com/) (supply chain fintech) · [Penta Lab](https://www.pentalab.io/) (blockchain research, Hong Kong) · [AiKe Technology](https://x.com/game_pupi) (blockchain games)
-- 📑 **Essays** (in Chinese): [New energy vehicle industry report](https://online.fliphtml5.com/byksl/jzoj/) · [Shopping mall turnover in Shenzhen](https://online.fliphtml5.com/byksl/cxwq/) · [i-WMS with simulated annealing](https://online.fliphtml5.com/byksl/gzqt/)
+| Project | What it is |
+|---|---|
+| [awesome-typesafe-jev #95](https://github.com/AbdelStark/awesome-typesafe-jev/pull/95) | Added Love-Language Arena, a local reproduction of the Jev interface pattern for Chinese/English rewrite judging. Merged. |
+| [WindowsDeveloperConfig #1](https://github.com/shentonyan/WindowsDeveloperConfig/pull/1) | Setup script bug fixes and doc corrections, on my fork. Merged. |
+| [hermes-agent #3](https://github.com/shentonyan/hermes-agent/pull/3) | Spotify tool validation fixes for playback cursors and library limits, on my fork. Merged. |
 
 ---
 
