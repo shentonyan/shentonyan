@@ -1,124 +1,95 @@
-<h1 align="center">Shenton</h1>
-<p align="center"><strong>Researcher — Operations Management & Mechanism Design</strong></p>
-<p align="center">Auctions · low-altitude logistics · agent coordination · verifiable systems.<br/>
-Designing the rules that make markets, networks and autonomous agents <em>behave</em>.</p>
-<p align="center"><sub>运营管理 · 机制设计 · 低空物流 · 多智能体 · Web3 标准</sub></p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/shentonyan"><img src="https://img.shields.io/badge/GitHub-shentonyan-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="TODO_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="TODO_ORCID_URL"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"></a>
-  <a href="TODO_X_URL"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter"></a>
-  <a href="TODO_WRITING_URL"><img src="https://img.shields.io/badge/Writing-111111?style=for-the-badge" alt="Writing"></a>
-</p>
+<img src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/1pfp.jpg" width="120" alt="Shenton Yan">
 
-<p align="center">
-  <a href="TODO_HKU_URL"><img src="https://img.shields.io/badge/HKU-Affiliation-006B3F?style=for-the-badge" alt="HKU"></a>
-  <a href="https://github.com/shentonyan/TODO-ERC-8350-REPO"><img src="https://img.shields.io/badge/ERC--8350-Contributor-6C47FF?style=for-the-badge" alt="ERC-8350"></a>
-  <a href="TODO_POMS_URL"><img src="https://img.shields.io/badge/POMS-2026-4C6FFF?style=for-the-badge" alt="POMS 2026"></a>
-</p>
+# Shenton (Shentao) Yan 👋
 
----
+**Postgraduate student in Low-Altitude Economics · The Hong Kong Polytechnic University**
 
-## What I do
+📦 Supply Chain · 🔗 Blockchain · 📐 Operations Research · 💹 Fintech · 📜 Chinese History & Literature
 
-- **Mechanism design & market simulation** — double auctions, endogenous participation, learning-based bidding (DDPG, LSTM-WGAN-GP), and differentiable mechanism design (RegretNet-style) for real-world markets.
-- **Low-altitude & megacity logistics** — network resilience and drone service network design; reproducing and extending the literature with journal-grade figures.
-- **Multi-agent AI & governance** — how agents remember, coordinate and are held accountable; monthly landscape reports on multi-agent governance (Chinese).
-- **Web3 standards** — technical study of and contribution to **ERC-8350** (Agent Memory State Registry), approached from a mechanism-design angle.
-- **Formal methods (learning in public)** — Lean 4 + Mathlib.
-- Bilingual output (中文 / English) — reports, posters, and papers for both communities.
+<a href="https://shentonyan.github.io/"><img src="https://img.shields.io/badge/Homepage-shentonyan.github.io-2b6cb0?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Homepage"></a>
+<a href="https://shentonyan.github.io/blog/"><img src="https://img.shields.io/badge/Blog-Read-f59e0b?style=for-the-badge&logo=rss&logoColor=white" alt="Blog"></a>
+<a href="mailto:smallpopo2003@gmail.com"><img src="https://img.shields.io/badge/Email-Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://github.com/shentonyan"><img src="https://img.shields.io/badge/GitHub-shentonyan-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 
-The question that drives the current work:
+<img src="https://img.shields.io/badge/PolyU-Hong_Kong-8b1a2b?style=flat-square&logo=googlescholar&logoColor=white" alt="PolyU">
+<img src="https://img.shields.io/badge/SZU-Supply_Chain_Management-1e6f5c?style=flat-square&logo=bookstack&logoColor=white" alt="SZU">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity">
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R">
+<img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB">
 
-> **What rules make self-interested agents produce good collective outcomes — and how do you verify that they do?**
+</div>
 
 ---
 
-## Research
+## 🎓 About
 
-Reproducible simulations, reports and working papers.
+- 🏫 Currently pursuing postgraduate studies in **Low-Altitude Economics** at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/).
+- 🎒 Undergraduate degree in **Supply Chain Management** from [Shenzhen University](https://en.szu.edu.cn/).
+- 💬 Always happy to discuss blockchain, operations research, supply chain, fintech, Chinese history and literature.
+- 🌐 Bilingual writing in 中文 / English.
 
-- **Shenzhen Construction & Demolition Waste (CDW) Double Auction** (2026) — 1095-day daily call-auction simulation (k = 0 clearing) with 59 sellers × 59 buyers, five seller bidding strategies, 14 experiment groups / 2390 runs. Welfare accounting: traded surplus − disposal social cost − buyer participation cost − inventory holding cost. → code: [`TODO-repo`](https://github.com/shentonyan/TODO)
-- **Differentiable Mechanism Design for CDW** (2026) — a RegretNet-style PyTorch benchmark for the mechanism upper bound of the CDW market. → code: [`cdw-diffauction`](https://github.com/shentonyan/cdw-diffauction)
-- **Low-Altitude Logistics Network Resilience** (2026) — megacity drone logistics resilience, with CAAC drone-registration trend analysis. → `TODO link`
-- **AI Agent Landscape — Multi-Agent Governance** (2026) — structured research report, published in Chinese. → `TODO link`
-- **Monthly Research Series** — recurring report on `TODO topic`. → `TODO link`
+## 🔭 Currently exploring
 
----
+- 🚁 Low-altitude logistics network design and resilience
+- 🏗️ Auction and market design, with simulation, for construction waste trading in Shenzhen
+- 🤖 Multi-agent AI and its governance
+- ⛓️ Ethereum standards for agent memory (ERC-8350)
+- 📐 Lean 4 for formal proofs (just getting started)
 
-## Selected work
+## 🛠️ Toolbox
 
-### Mechanism design & simulation
+| 💻 Programming | 📊 Analysis & Modeling |
+|:---|:---|
+| Python · Solidity · R · MATLAB | AnyLogic · PyCharm · SPSS · AMOS · EViews · Gurobi |
 
-| Project | What it is |
-|---|---|
-| [TODO-cdw-sim](https://github.com/shentonyan/TODO) | Shenzhen CDW double-auction simulation (v13): config-driven variants, ADRs, preregistration, probe reports. |
-| [cdw-diffauction](https://github.com/shentonyan/cdw-diffauction) | Differentiable auction design in PyTorch — the mechanism upper-bound benchmark for the simulation. |
+## 📋 Projects & Competitions
 
-### Low-altitude economy & logistics
+| | Project | Role | Time |
+|:-:|:---|:---|:---|
+| 🚛 | [FAW Logistics Digital & Intelligent Dispatch Decision Optimization](https://online.fliphtml5.com/byksl/wnqf/) — 8th National College Student Logistics Design Competition | Team Leader | 2023.11 – 2024.06 |
+| 🏙️ | [Urban Integration of Migrant Workers in Shenzhen](https://online.fliphtml5.com/byksl/irlh/) — "Challenge Cup" | Team Leader | 2023.05 – 2023.09 |
+| 🚗 | [Consumer Preferences for Household New Energy Vehicles in Shenzhen](https://online.fliphtml5.com/byksl/oamy/) — "Chia Tai Cup" | Data Analyst | 2022.09 – 2023.04 |
+| 🌐 | [DAism](https://learn.daism.io/zh) — operations team | Co-Leader | 2022.09 – present |
 
-| Project | What it is |
-|---|---|
-| [TODO-drone-network](https://github.com/shentonyan/TODO) | Multi-service drone network design: reproduction of recent Transportation Research Part C work. |
-| [TODO-resilience](https://github.com/shentonyan/TODO) | Megacity low-altitude logistics network resilience analysis. |
+## 📑 Essays (in Chinese)
 
-### Agents, Web3 & standards
+- 🚙 [China New Energy Vehicle Industry Research Report](https://online.fliphtml5.com/byksl/jzoj/)
+- 🧴 [Developing an Eye Cream for Estée Lauder 2024](https://online.fliphtml5.com/byksl/jhkb/)
+- 🏬 [Econometric Analysis of Factors Influencing the Turnover of Shopping Malls in Shenzhen](https://online.fliphtml5.com/byksl/cxwq/)
+- 📦 [Design and Implementation of i-WMS Solution Based on Simulated Annealing Algorithm](https://online.fliphtml5.com/byksl/gzqt/)
+- 📖 [The Logical Evolution and Enlightenment of "The Banality of Evil"](https://online.fliphtml5.com/byksl/ykdn/)
+- 📖 [A New Interpretation of "Mahamaya and Her Tragedy"](https://online.fliphtml5.com/byksl/ckzd/)
+- 🕊️ [Death Gives Meaning to Life](https://online.fliphtml5.com/byksl/rsrn/)
 
-| Project | What it is |
-|---|---|
-| [TODO-erc-8350-notes](https://github.com/shentonyan/TODO) | Study notes on ERC-8350: commitment schemes, sequence counters, `ExperienceDelta` structs, and mechanism-design contribution angles. |
-| [TODO-agent-governance](https://github.com/shentonyan/TODO) | Multi-agent governance framework research (memory tiers, co-governance, risk patterns). |
+## 🏆 Awards
 
-### Formal methods
+| Award | Year |
+|:---|:-:|
+| 🥈 Second Prize, 8th National College Student Logistics Design Competition | 2024 |
+| 🥉 Third Prize, "Chia Tai Cup" 13th National College Student Market Survey and Analysis Competition | 2023 |
+| 🎖️ LiYuan Outstanding Scholarship, Shenzhen University (Second-level) | 2023 & 2024 |
+| 🥇 First Prize, University Learning Star Award | 2023 |
+| 🥇 First Prize, University Public Welfare Star Award | 2023 |
+| 🥇 First Prize, Excellent Student Cadre | 2023 |
 
-| Project | What it is |
-|---|---|
-| [TODO-lean-notes](https://github.com/shentonyan/TODO) | Lean 4 + Mathlib learning notes and exercises. |
+## 💼 Internships
 
----
-
-## Writing
-
-| Title | What it is |
-|---|---|
-| [TODO title](TODO_URL) | One-line description. |
-| [TODO title](TODO_URL) | One-line description. |
-| [TODO title](TODO_URL) | One-line description. |
-
----
-
-## Community & governance
-
-- **NaturalDAO** — member; working on community co-governance.
-- **Proof of Love (爱的证明)** — a philosophical and governance text spanning AI alignment, civilization theory and community co-governance. → [`TODO`](TODO_URL)
-
----
-
-## Earlier work
-
-<details>
-<summary><strong>TODO project</strong> — short tagline (year)</summary>
-<br>
-
-Two or three sentences on what you built and what you owned, plus a link to a talk, poster or paper.
-
-</details>
+| | Company | Role | Time |
+|:-:|:---|:---|:---|
+| 📮 | [S.F. Express](https://htm.sf-express.com/hk/en/) | The Eagle Plan, Intern | 2024.09 – 2024.10 |
+| 💳 | [Linklogis](https://www.linklogis.com/) — supply chain fintech | Pre-Sales Solutions, Assistant Solution Manager | 2024.07 – 2024.09 |
+| 📰 | [Penta Lab](https://www.pentalab.io/) — blockchain research institute, Hong Kong | Editorial Department, Intern | 2024.04 – 2024.07 |
+| 🎮 | [AiKe Technology](https://x.com/game_pupi) — blockchain games | Market Operations, Intern | 2023.09 – 2024.04 |
 
 ---
 
-## Principle
+<div align="center">
 
-**Good mechanisms make honesty the profitable strategy.**
+<sub>我深怕自己并非美玉，故而不敢加以刻苦琢磨，却又半信自己是块美玉，故而又不肯庸庸碌碌。</sub>
 
-Incentives scale. Good intentions don't.
+<a href="https://shentonyan.github.io/"><img src="https://img.shields.io/badge/More_on_my_homepage-→-2b6cb0?style=for-the-badge" alt="Homepage"></a>
 
----
-
-<p align="center">
-  <a href="https://github.com/shentonyan"><img src="https://img.shields.io/badge/GitHub-shentonyan-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="TODO_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="TODO_ORCID_URL"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"></a>
-  <a href="TODO_X_URL"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter"></a>
-  <a href="TODO_WRITING_URL"><img src="https://img.shields.io/badge/Writing-111111?style=for-the-badge" alt="Writing"></a>
-</p>
+</div>
