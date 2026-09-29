@@ -8,17 +8,27 @@
 
 📦 Supply Chain · 🔗 Blockchain · 📐 Operations Research · 💹 Fintech · 📜 Chinese History & Literature
 
-<a href="https://shentonyan.github.io/"><img src="https://img.shields.io/badge/Homepage-shentonyan.github.io-2b6cb0?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Homepage"></a>
-<a href="https://shentonyan.github.io/blog/"><img src="https://img.shields.io/badge/Blog-Read-f59e0b?style=for-the-badge&logo=rss&logoColor=white" alt="Blog"></a>
-<a href="mailto:smallpopo2003@gmail.com"><img src="https://img.shields.io/badge/Email-Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://github.com/shentonyan"><img src="https://img.shields.io/badge/GitHub-shentonyan-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-
 <img src="https://img.shields.io/badge/PolyU-Hong_Kong-8b1a2b?style=flat-square&logo=googlescholar&logoColor=white" alt="PolyU">
 <img src="https://img.shields.io/badge/SZU-Supply_Chain_Management-1e6f5c?style=flat-square&logo=bookstack&logoColor=white" alt="SZU">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity">
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R">
 <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB">
+<br>
+<img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" alt="PyCharm">
+<img src="https://img.shields.io/badge/AnyLogic-1f6feb?style=flat-square" alt="AnyLogic">
+<img src="https://img.shields.io/badge/Gurobi-ee3524?style=flat-square" alt="Gurobi">
+<img src="https://img.shields.io/badge/SPSS-052fad?style=flat-square" alt="SPSS">
+<img src="https://img.shields.io/badge/AMOS-0d9488?style=flat-square" alt="AMOS">
+<img src="https://img.shields.io/badge/EViews-7c3aed?style=flat-square" alt="EViews">
+<br>
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude Code">
+<img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor">
+<img src="https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white" alt="Codex">
+<img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=flat-square&logo=githubcopilot&logoColor=white" alt="GitHub Copilot">
+<img src="https://img.shields.io/badge/OpenClaw-e11d48?style=flat-square" alt="OpenClaw">
+<img src="https://img.shields.io/badge/Hermes_Agent-6366f1?style=flat-square" alt="Hermes Agent">
+<img src="https://img.shields.io/badge/Jev-0ea5e9?style=flat-square" alt="Jev">
 
 </div>
 
@@ -35,15 +45,27 @@
 
 - 🚁 Low-altitude logistics network design and resilience
 - 🏗️ Auction and market design, with simulation, for construction waste trading in Shenzhen
-- 🤖 Multi-agent AI and its governance
+- 🤖 Multi-agent AI and its governance, plus everyday work with AI coding agents
 - ⛓️ Ethereum standards for agent memory (ERC-8350)
+- 🌱 [NaturalDAO](https://github.com/naturaldao) — community co-governance and the "Proof of Love" (PoL) documents
 - 📐 Lean 4 for formal proofs (just getting started)
 
-## 🛠️ Toolbox
+## 🌱 Open-source contributions
 
-| 💻 Programming | 📊 Analysis & Modeling |
-|:---|:---|
-| Python · Solidity · R · MATLAB | AnyLogic · PyCharm · SPSS · AMOS · EViews · Gurobi |
+**NaturalDAO**
+
+| | Contribution | Status |
+|:-:|:---|:-:|
+| 📚 | [NaturalDAO #17](https://github.com/naturaldao/NaturalDAO/pull/17) — Jev typed-decision literature survey, mapped to PoL2 governance | 🟢 Open |
+| 💞 | [EAP #2](https://github.com/naturaldao/EAP/pull/2) — reference document on "爱的连接" (Love Linking) | 🟢 Open |
+
+**Other**
+
+| | Contribution | Status |
+|:-:|:---|:-:|
+| 🧪 | [awesome-typesafe-jev #95](https://github.com/AbdelStark/awesome-typesafe-jev/pull/95) — added Love-Language Arena, a local reproduction of the Jev interface pattern for Chinese/English rewrite judging | 🟣 Merged |
+| 🪟 | [WindowsDeveloperConfig #1](https://github.com/shentonyan/WindowsDeveloperConfig/pull/1) — setup script bug fixes and doc corrections (my fork) | 🟣 Merged |
+| 🎵 | [hermes-agent #3](https://github.com/shentonyan/hermes-agent/pull/3) — Spotify tool validation fixes: playback cursors and library mutation limits (my fork) | 🟣 Merged |
 
 ## 📋 Projects & Competitions
 
@@ -52,7 +74,6 @@
 | 🚛 | [FAW Logistics Digital & Intelligent Dispatch Decision Optimization](https://online.fliphtml5.com/byksl/wnqf/) — 8th National College Student Logistics Design Competition | Team Leader | 2023.11 – 2024.06 |
 | 🏙️ | [Urban Integration of Migrant Workers in Shenzhen](https://online.fliphtml5.com/byksl/irlh/) — "Challenge Cup" | Team Leader | 2023.05 – 2023.09 |
 | 🚗 | [Consumer Preferences for Household New Energy Vehicles in Shenzhen](https://online.fliphtml5.com/byksl/oamy/) — "Chia Tai Cup" | Data Analyst | 2022.09 – 2023.04 |
-| 🌐 | [DAism](https://learn.daism.io/zh) — operations team | Co-Leader | 2022.09 – present |
 
 ## 📑 Essays (in Chinese)
 
@@ -86,10 +107,4 @@
 
 ---
 
-<div align="center">
-
-<sub>我深怕自己并非美玉，故而不敢加以刻苦琢磨，却又半信自己是块美玉，故而又不肯庸庸碌碌。</sub>
-
-<a href="https://shentonyan.github.io/"><img src="https://img.shields.io/badge/More_on_my_homepage-→-2b6cb0?style=for-the-badge" alt="Homepage"></a>
-
-</div>
+> *I am afraid that I am not a jade, so I do not dare to do hard work, but I half believe that I am a jade, so I refuse to be mediocre.*
