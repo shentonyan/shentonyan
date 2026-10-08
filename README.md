@@ -1,6 +1,9 @@
 <div align="center">
 
-<a href="assets/earthrise/"><img src="assets/earthrise/earthrise.gif" alt="ASCII animation: the Earth rising over a cratered lunar horizon, drawn in halftone dots" width="100%"></a>
+<!-- Banner: the "earthrise" piece from ascii.rest (MIT, @bas3line) — see assets/banner/NOTICE.md.
+     To use the original renderer in assets/earthrise/ instead, swap the two paths below
+     for assets/earthrise/earthrise.gif. -->
+<a href="https://ascii.rest/earthrise/"><img src="assets/banner/earthrise-ascii-rest.gif" alt="ASCII animation: the Earth rising over a cratered lunar horizon, drawn in halftone dots" width="100%"></a>
 
 </div>
 
@@ -58,4 +61,4 @@ Older coursework, experiments, and forks are in the [repository list](https://gi
 
 ---
 
-<sub>The banner is an original ASCII animation — source in <a href="assets/earthrise/">assets/earthrise</a>. The idea of a halftone-dot earthrise was inspired by the animated ASCII gallery at <a href="https://ascii.rest/earthrise/">ascii.rest</a>.</sub>
+<sub>Banner: <b>earthrise</b> from <a href="https://ascii.rest/earthrise/">ascii.rest</a> by <a href="https://github.com/bas3line">@bas3line</a>, MIT licensed — notice in <a href="assets/banner/NOTICE.md">assets/banner</a>. An independent ASCII earthrise renderer of my own lives in <a href="assets/earthrise/">assets/earthrise</a>.</sub>
