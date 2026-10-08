@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Earthrise</title>
+<style>
+  :root { color-scheme: dark; }
+  html, body {
+    margin: 0;
+    background: #000;
+    height: 100%;
+    display: grid;
+    place-items: center;
+  }
+  canvas {
+    max-width: 100%;
+    height: auto;
+    image-rendering: auto;
+  }
+  @media (prefers-reduced-motion: reduce) {
+    /* The render loop checks this and holds the first frame. */
+  }
+</style>
+</head>
+<body>
+<canvas id="c"></canvas>
+<script src="earthrise.js"></script>
+<script>
+(function () {
+  'use strict';
+
+  var COLS = 150, ROWS = 44, CW = 7, CH = 12;
+  var FRAMES = 96;          // one loop
+  var FPS = 14;
+
+  var scene = Earthrise.create({ cols: COLS, rows: ROWS, cellW: CW, cellH: CH, font: 12 });
+
+  var canvas = document.getElementById('c');
+  var dpr = 1;              // fixed, so captured frames are pixel-identical
+  canvas.width = scene.width * dpr;
+  canvas.height = scene.height * dpr;
+  canvas.style.width = scene.width + 'px';
+  canvas.style.height = scene.height + 'px';
+  var ctx = canvas.getContext('2d');
+
+  // Deterministic single-frame render, used by the capture script.
+  window.__earthriseFrames = FRAMES;
+  window.__earthriseSize = { w: scene.width, h: scene.height };
+  window.__earthriseRender = function (i) {
+    scene.draw(ctx, (i % FRAMES) / FRAMES);
+    return true;
+  };
+
+  var reduce = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  if (reduce || location.search.indexOf('static') !== -1) {
+    scene.draw(ctx, 0);
+    return;
+  }
+
+  // Live playback, for viewing the scene in a browser.
+  var start = null;
+  function tick(now) {
+    if (start === null) start = now;
+    var frame = Math.floor(((now - start) / 1000) * FPS) % FRAMES;
+    scene.draw(ctx, frame / FRAMES);
+    requestAnimationFrame(tick);
+  }
+  if (!window.__earthriseNoAutoplay) requestAnimationFrame(tick);
+})();
+</script>
+</body>
+</html>
