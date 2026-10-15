@@ -32,7 +32,6 @@ I work on operations research and mechanism design, and I keep wandering into bl
 - [pol2-governance-compiler], turns PoL2 governance documents into checkable rules ![python]
 - [pol2-jev-honesty], honesty probes for typed-decision models ![python]
 - [pol2-laya-studio], a workbench for the PoL2 experiments ![python]
-- [lean_practice_0916], learning Lean 4, slowly ![lean]
 
 Older coursework, experiments, and forks are in the [repository list].
 
