@@ -9,31 +9,38 @@
 
 ### Hey there 👋
 
-I'm Shenton (Shentao) Yan — a postgraduate student in Low-Altitude Economics at The Hong Kong Polytechnic University, after an undergraduate degree in Supply Chain Management at Shenzhen University.
+I'm **Shenton (Shentao) Yan**, a postgraduate student in Low-Altitude Economics at The Hong Kong Polytechnic University. I studied Supply Chain Management at Shenzhen University.
 
-I work on operations research and mechanism design, and I keep wandering into blockchain standards and multi-agent AI. I write in both 中文 and English.
+I use operations research, mechanism design, and software experiments to study how people, markets, and AI agents coordinate. I work in English and 中文.
 
-🔭 I'm currently working on:
+> 我是严申涛，现于香港理工大学攻读低空经济研究生。关注运筹学、机制设计，以及人和 AI 智能体如何协作。
 
-- [sealed-bid-award-erc], a draft Ethereum standard for a sealed-bid award mechanism in agent task tenders ![solidity] ![ethereum]
-- [autoscientists], an automated research loop that takes a research idea through to a pull request ![python]
-- [pol2-sycophancy-experiment], a third-party condition test for sycophancy in language models ![python]
-- [dao-governance-replication], an independent replication of a published study on DAO-based deliberation and voting for AI governance ![python]
+### Current research
 
-🧪 Research threads, not all of them repositories yet:
+- **Low-altitude logistics:** network design, landing-site congestion, and resilience in urban drone delivery.
+- **Markets and mechanisms:** auctions and trading for construction and demolition waste, including differentiable mechanism design.
+- **AI governance and decision-making:** sealed decisions, auditable voting, and measurable tests of agent behavior.
+- **Cyber-Physical Internet:** a source-traceable literature map of digital–physical integration in logistics.
 
-- Low-altitude logistics: network design, congestion at landing points, and resilience in megacity drone delivery
-- Auction and market design for construction and demolition waste trading in Shenzhen, including a differentiable mechanism-design benchmark
-- Multi-agent AI and its governance — I've been reading the Ethereum standards for agent memory, including ERC-8350
-- Community co-governance with [NaturalDAO], where I contribute to the PoL2 documents
+### Featured projects
 
-🗂️ And a few more:
+| Project | What it explores |
+| --- | --- |
+| [VeilTender] | A prototype sealed-bid auction for AI-agent tasks using fully homomorphic encryption. [Try the live demo](https://shentonyan.github.io/veil-tender/). Prototype only: not deployed to a public network or security-audited. |
+| [pol2-agent-ballot] | A sealed, auditable voting protocol for AI agents, with a [live demo](https://shentonyan.github.io/pol2-agent-ballot/). |
+| [subq-decision-lab] | Reproducible experiments on the accuracy, calibration, and wording sensitivity of typed-decision models. |
+| [agent-governance-lab] | An experiment harness for testing governance artifacts with seeded runs and a verifiable ledger. |
+| [cpi-research-dataset] | A source-traceable index for Cyber-Physical Internet research, with evidence and scope limits documented. |
 
-- [pol2-governance-compiler], turns PoL2 governance documents into checkable rules ![python]
-- [pol2-jev-honesty], honesty probes for typed-decision models ![python]
-- [pol2-laya-studio], a workbench for the PoL2 experiments ![python]
+### More projects
 
-Older coursework, experiments, and forks are in the [repository list].
+- [sealed-bid-award-erc] — a draft Ethereum standard for sealed-bid awards in agent task tenders.
+- [autoscientists] — an automated research workflow from an initial idea to a pull request.
+- [pol2-governance-compiler] — turns Proof of Love2 governance documents into checkable rules.
+- [pol2-jev-honesty] — honesty probes for typed-decision models.
+- [dao-governance-replication] — an independent replication of research on DAO deliberation and AI governance.
+
+I contribute to [NaturalDAO] and its [Proof of Love2 governance work](https://github.com/naturaldao/NaturalDAO). Browse the [full repository list] for older experiments, coursework, and forks.
 
 <div align="center">
 
@@ -46,18 +53,18 @@ Older coursework, experiments, and forks are in the [repository list].
 
 <sub>Banner: <b>earthrise</b> from <a href="https://ascii.rest/earthrise/">ascii.rest</a> by <a href="https://github.com/bas3line">@bas3line</a>, MIT licensed — notice in <a href="assets/banner/NOTICE.md">assets/banner</a>. An independent ASCII earthrise renderer of my own lives in <a href="assets/earthrise/">assets/earthrise</a>.</sub>
 
+[VeilTender]:https://github.com/shentonyan/veil-tender
+[pol2-agent-ballot]:https://github.com/shentonyan/pol2-agent-ballot
+[subq-decision-lab]:https://github.com/shentonyan/subq-decision-lab
+[agent-governance-lab]:https://github.com/shentonyan/agent-governance-lab
+[cpi-research-dataset]:https://github.com/shentonyan/cpi-research-dataset
 [sealed-bid-award-erc]:https://github.com/shentonyan/sealed-bid-award-erc
 [autoscientists]:https://github.com/shentonyan/autoscientists
-[pol2-sycophancy-experiment]:https://github.com/shentonyan/pol2-sycophancy-experiment
-[dao-governance-replication]:https://github.com/shentonyan/dao-governance-replication
 [pol2-governance-compiler]:https://github.com/shentonyan/pol2-governance-compiler
 [pol2-jev-honesty]:https://github.com/shentonyan/pol2-jev-honesty
-[pol2-laya-studio]:https://github.com/shentonyan/pol2-laya-studio
-[love-arena-v2]:https://github.com/shentonyan/love-arena-v2
-[continuous-curvature]:https://github.com/shentonyan/continuous-curvature
-[lean_practice_0916]:https://github.com/shentonyan/lean_practice_0916
+[dao-governance-replication]:https://github.com/shentonyan/dao-governance-replication
 [NaturalDAO]:https://github.com/naturaldao/NaturalDAO
-[repository list]:https://github.com/shentonyan?tab=repositories
+[full repository list]:https://github.com/shentonyan?tab=repositories
 [shentonyan.github.io]:https://shentonyan.github.io
 
 [python]:https://img.shields.io/badge/Python-161b22?style=flat&logo=python&logoColor=3776ab
