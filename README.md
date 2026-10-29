@@ -40,13 +40,6 @@ I work on operations research and mechanism design, and I keep wandering into bl
 
 Older coursework, experiments, and forks are in the [repository list].
 
-<div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=shentonyan&show_icons=true&hide_border=true&theme=transparent&hide_title=true&count_private=true" alt="GitHub stats">
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shentonyan&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Most used languages">
-
-</div>
-
 ---
 
 <sub>Banner: <b>earthrise</b> from <a href="https://ascii.rest/earthrise/">ascii.rest</a> by <a href="https://github.com/bas3line">@bas3line</a>, MIT licensed — notice in <a href="assets/banner/NOTICE.md">assets/banner</a>. An independent ASCII earthrise renderer of my own lives in <a href="assets/earthrise/">assets/earthrise</a>.</sub>
