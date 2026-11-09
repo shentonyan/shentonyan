@@ -7,7 +7,7 @@
 
 </div>
 
-### Hey there 👋
+### Heya there 👋
 
 I'm Shenton (Shentao) Yan — a postgraduate student in Low-Altitude Economics at The Hong Kong Polytechnic University, after an undergraduate degree in Supply Chain Management at Shenzhen University.
 
