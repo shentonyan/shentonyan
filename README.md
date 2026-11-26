@@ -7,22 +7,28 @@
 
 </div>
 
+<div align="center">
+
 ### Heya there 👋
 
 I'm Shenton (Shentao) Yan — a postgraduate student in Low-Altitude Economics at The Hong Kong Polytechnic University, after an undergraduate degree in Supply Chain Management at Shenzhen University.
 
 I work on operations research and mechanism design, and I keep wandering into blockchain standards and multi-agent AI. I write in both English and Chinese.
 
-🔭 I'm currently working on:
+</div>
 
-- [sealed-bid-award-erc], a draft Ethereum standard for a sealed-bid award mechanism in agent task tenders ![solidity] ![ethereum]
-- [veil-tender], a confidential sealed-bid task auction for AI agents using fully homomorphic encryption; [live demo](https://shentonyan.github.io/veil-tender/) ![solidity] ![ethereum]
-- [pol2-agent-ballot], a sealed, auditable voting protocol for AI agents; [live demo](https://shentonyan.github.io/pol2-agent-ballot/) ![python]
-- [subq-decision-lab], experiments on accuracy, calibration, and wording sensitivity in typed-decision models ![python]
-- [autoscientists], an automated research loop that takes a research idea through to a pull request ![python]
-- [dao-governance-replication], an independent replication of a published study on DAO-based deliberation and voting for AI governance ![python]
+<h3 align="center">🔭 Recent projects (auto-updated from GitHub):</h3>
 
-🧪 Research threads, not all of them repositories yet:
+<!-- recent-projects:start -->
+- [auction-gan-lab](https://github.com/shentonyan/auction-gan-lab), Recent experiments and development. ![JavaScript](https://img.shields.io/badge/JavaScript-F1E05A?style=flat&logo=javascript&logoColor=black) <sub>updated 2026-11-26</sub>
+- [bitcoin-flow-monitor](https://github.com/shentonyan/bitcoin-flow-monitor), 一个采用 Apple 风格设计的比特币交易监测仪表盘，能够查询地址并实时展示 UTXO 交易流向。 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) <sub>updated 2026-11-26</sub>
+- [star-isles](https://github.com/shentonyan/star-isles), A tiny explorable pixel coast and project portfolio — Rust/WebAssembly terrain, twelve stars and a lighthouse; [live demo](https://shentonyan.github.io/star-isles/) ![JavaScript](https://img.shields.io/badge/JavaScript-F1E05A?style=flat&logo=javascript&logoColor=black) <sub>updated 2026-11-26</sub>
+- [cathay-meal-forecast](https://github.com/shentonyan/cathay-meal-forecast), Recent experiments and development; [live demo](https://shentonyan.github.io/cathay-meal-forecast/) ![JavaScript](https://img.shields.io/badge/JavaScript-F1E05A?style=flat&logo=javascript&logoColor=black) <sub>updated 2026-11-26</sub>
+- [sunlight-ruler](https://github.com/shentonyan/sunlight-ruler), 一款以当前时间、日出日落与剩余自然光为核心的 Apple 风格交互网页原型，包含城市切换和小组件预览。 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) <sub>updated 2026-11-26</sub>
+- [dice6-3d](https://github.com/shentonyan/dice6-3d), 一个面向手机操作的黑白极简 3D 骰子投掷网页。 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) <sub>updated 2026-11-26</sub>
+<!-- recent-projects:end -->
+
+<h3 align="center">🧪 Research threads, not all of them repositories yet:</h3>
 
 - Low-altitude logistics: network design, congestion at landing points, and resilience in megacity drone delivery
 - Auction and market design for construction and demolition waste trading in Shenzhen, including a differentiable mechanism-design benchmark
@@ -30,7 +36,7 @@ I work on operations research and mechanism design, and I keep wandering into bl
 - Community co-governance with [NaturalDAO], where I contribute to the PoL2 documents
 - Cyber-Physical Internet: a source-traceable literature map of digital–physical integration in logistics
 
-🗂️ And a few more:
+<h3 align="center">🗂️ And a few more:</h3>
 
 - [pol2-governance-compiler], turns PoL2 governance documents into checkable rules ![python]
 - [pol2-jev-honesty], honesty probes for typed-decision models ![python]
