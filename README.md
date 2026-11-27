@@ -20,7 +20,7 @@ I work on operations research and mechanism design, and I keep wandering into bl
 <h3 align="center">🔭 Recent projects (auto-updated from GitHub):</h3>
 
 <!-- recent-projects:start -->
-- [auction-gan-lab](https://github.com/shentonyan/auction-gan-lab), Recent experiments and development. ![JavaScript](https://img.shields.io/badge/JavaScript-F1E05A?style=flat&logo=javascript&logoColor=black) <sub>updated 2026-11-26</sub>
+- [auction-gan-lab](https://github.com/shentonyan/auction-gan-lab), Recent experiments and development. ![JavaScript](https://img.shields.io/badge/JavaScript-F1E05A?style=flat&logo=javascript&logoColor=black) <sub>updated 2026-11-27</sub>
 - [bitcoin-flow-monitor](https://github.com/shentonyan/bitcoin-flow-monitor), 一个采用 Apple 风格设计的比特币交易监测仪表盘，能够查询地址并实时展示 UTXO 交易流向。 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) <sub>updated 2026-11-26</sub>
 - [star-isles](https://github.com/shentonyan/star-isles), A tiny explorable pixel coast and project portfolio — Rust/WebAssembly terrain, twelve stars and a lighthouse; [live demo](https://shentonyan.github.io/star-isles/) ![JavaScript](https://img.shields.io/badge/JavaScript-F1E05A?style=flat&logo=javascript&logoColor=black) <sub>updated 2026-11-26</sub>
 - [cathay-meal-forecast](https://github.com/shentonyan/cathay-meal-forecast), Recent experiments and development; [live demo](https://shentonyan.github.io/cathay-meal-forecast/) ![JavaScript](https://img.shields.io/badge/JavaScript-F1E05A?style=flat&logo=javascript&logoColor=black) <sub>updated 2026-11-26</sub>
