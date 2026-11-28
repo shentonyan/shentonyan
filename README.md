@@ -20,12 +20,12 @@ I work on operations research and mechanism design, and I keep wandering into bl
 <h3 align="center">🔭 Recent projects (auto-updated from GitHub):</h3>
 
 <!-- recent-projects:start -->
+- [continuous-curvature](https://github.com/shentonyan/continuous-curvature), Recent experiments and development. ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) <sub>updated 2026-11-28</sub>
+- [Cathay-Hackathon-2026-TeamE507](https://github.com/shentonyan/Cathay-Hackathon-2026-TeamE507), Cathay Hackathon 2026 E507 团队代码与演示 | Team E507 code, experiments and demos. ![JavaScript](https://img.shields.io/badge/JavaScript-F1E05A?style=flat&logo=javascript&logoColor=black) <sub>updated 2026-11-28</sub>
+- [sealed-bid-award-erc](https://github.com/shentonyan/sealed-bid-award-erc), Recent experiments and development. ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white) <sub>updated 2026-11-27</sub>
 - [auction-gan-lab](https://github.com/shentonyan/auction-gan-lab), Recent experiments and development. ![JavaScript](https://img.shields.io/badge/JavaScript-F1E05A?style=flat&logo=javascript&logoColor=black) <sub>updated 2026-11-27</sub>
 - [bitcoin-flow-monitor](https://github.com/shentonyan/bitcoin-flow-monitor), 一个采用 Apple 风格设计的比特币交易监测仪表盘，能够查询地址并实时展示 UTXO 交易流向。 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) <sub>updated 2026-11-26</sub>
 - [star-isles](https://github.com/shentonyan/star-isles), A tiny explorable pixel coast and project portfolio — Rust/WebAssembly terrain, twelve stars and a lighthouse; [live demo](https://shentonyan.github.io/star-isles/) ![JavaScript](https://img.shields.io/badge/JavaScript-F1E05A?style=flat&logo=javascript&logoColor=black) <sub>updated 2026-11-26</sub>
-- [cathay-meal-forecast](https://github.com/shentonyan/cathay-meal-forecast), Recent experiments and development; [live demo](https://shentonyan.github.io/cathay-meal-forecast/) ![JavaScript](https://img.shields.io/badge/JavaScript-F1E05A?style=flat&logo=javascript&logoColor=black) <sub>updated 2026-11-26</sub>
-- [sunlight-ruler](https://github.com/shentonyan/sunlight-ruler), 一款以当前时间、日出日落与剩余自然光为核心的 Apple 风格交互网页原型，包含城市切换和小组件预览。 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) <sub>updated 2026-11-26</sub>
-- [dice6-3d](https://github.com/shentonyan/dice6-3d), 一个面向手机操作的黑白极简 3D 骰子投掷网页。 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) <sub>updated 2026-11-26</sub>
 <!-- recent-projects:end -->
 
 <h3 align="center">🧪 Research threads, not all of them repositories yet:</h3>
